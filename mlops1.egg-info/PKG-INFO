@@ -1,0 +1,21 @@
+Metadata-Version: 2.2
+Name: mlops1
+Version: 0.0.1
+Author: shalin shah
+Author-email: shalin.shah.work@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Requires-Dist: pymongo[srv]
+Requires-Dist: scikit-learn
+Requires-Dist: mlflow
+Requires-Dist: pyaml
+Requires-Dist: dagshub
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-multipart
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
